@@ -11,3 +11,13 @@ To do:
 - Flat UI elements
 - Higher fidelity renders
 - Better file naming
+
+UIs to add
+- https://nakst.gitlab.io https://nakst.itch.io/
+- https://github.com/midilab/jc303/issues/24#issuecomment-2676141541
+
+Info to include
+- Software used to make UI
+- Licensing
+- Creator
+- Original REPO / Project
