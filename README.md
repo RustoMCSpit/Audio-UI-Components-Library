@@ -17,3 +17,5 @@ To do:
 The goal is to make a huge repo of GUI art assets across many different plugins and advocating for a standardised way of storing assets
 that would allow a way for users to say "i want this knob file to be the knob used across every plugin i have"
 you would essentially be able to theme all your plugins at once
+
+https://github.com/open-audio-stack/open-audio-stack-registry/issues/157
